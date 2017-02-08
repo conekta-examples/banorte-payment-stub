@@ -1,5 +1,5 @@
-# OXXOPay Payment Stub
+# Banorte Payment Stub
 
-This is an example of this OXXOPay payment stub:
+This is an example of this Banorte payment stub:
 
-![OPPS](https://github.com/conekta-examples/oxxopay-payment-stub/blob/master/readme-files/opps_demo.png)
+![OPPS](https://github.com/conekta-examples/banorte-payment-stub/blob/master/readme-files/bps_demo.png)
